@@ -1,2 +1,2 @@
-# Cosmea
+# CosmeaX
 GitHub Pages
